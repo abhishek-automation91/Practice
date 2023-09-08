@@ -1,2 +1,5 @@
 new line created
 hello world
+cat
+dog
+deer
